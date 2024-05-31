@@ -39,7 +39,7 @@ class En_BankAccount:
 
 lang = int(input('Enter: \n 1. للغة العربية \n 2. for English \n '))
 if lang == 1:
-    Ar_user_account = AR_BankAccount()  # إنشاء حساب مستخدم مع رصيد افتراضي 0
+    Ar_user_account = AR_BankAccount() 
     
     while True:
         opreation = int(input("ادخل التالي للعمليات التالية: \n 1. لل إيداع \n 2. لل سحب \n 3. للتحقق من الرصيد"))
@@ -56,7 +56,7 @@ if lang == 1:
             print("Invalid choice. Please try again.")
 
 elif lang == 2:
-    En_user_account = En_BankAccount()  # إنشاء حساب مستخدم مع رصيد افتراضي 0
+    En_user_account = En_BankAccount() 
     
     while True:
         opreation = int(input("Enter the following for the following operations: \n 1. for deposit \n 2. for withdrawal \n 3. to check balance \n "))
