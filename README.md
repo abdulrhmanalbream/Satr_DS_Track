@@ -3,9 +3,7 @@
 <p>An educational path designed to educate individuals interested in following careers in data science and artificial intelligence with the most essential foundational concepts, such as handling various data types, processing and analyzing data, presenting data interactively and in graph form, and modeling data using deep learning and machine learning algorithms. In-Depth Learning Formulas.
   
 The track included several areas such as:
--Python
--SQL
--Git
+- Python ,SQL , Git
 - Analyze and process data via libraries: NumPy, Pandas
 - Data representation via libraries: Matplotlib, Seaborn
 - EDA exploratory data analysis
