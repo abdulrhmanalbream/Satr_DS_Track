@@ -20,7 +20,7 @@ Thank you to satr and Tuwaiq Academy for this incredible.
 ‏- Git
 - تحليل ومعالجة البيانات عبر: NumPy , Pandas
 - تمثيل البيانات عبر: Matplotlib , Seaboorn
-‏- EDA تحليل البيانات الاستكشافي
+- تحليل البيانات الاستكشافي EDA
 - تعلم الآلة (ML) 
 
 شكراً ل منظومة سطر التعليمية و أكاديمية طويق لاتاحة الفرصة.
